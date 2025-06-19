@@ -1,4 +1,4 @@
-Subaru GPS Update: Keeping Your Navigation System Current
+How to Update Subaru GPS? A Complete Guide
 ==========================================================
 
 .. toctree::
